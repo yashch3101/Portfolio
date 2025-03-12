@@ -42,19 +42,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "MERN Stack Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Flutter Developer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "JAVA DSA",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Artificial Intelligence and Machine Learning",
     icon: creator,
   },
 ];
@@ -117,52 +117,52 @@ const technologies = [
 const experiences = [
   {
     title: "React.js Developer",
-    company_name: "Starbucks",
+    // company_name: "Starbucks",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "July 2023 - August 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Learning and building web applications using React.js and modern frontend technologies.",
+      "Collaborating with mentors and team members to understand best practices in development.",
+      "Implementing responsive design and ensuring smooth user experience across devices.",
+      "Continuously improving skills through code reviews and feedback from senior developers.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Flutter Developer",
+    // company_name: "Tesla",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Jan 2024 - Feb 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Learning and building mobile applications using Flutter and Dart for cross-platform development.",
+      "Collaborating with mentors and team members to understand UI/UX design principles and app architecture.",
+      "Implementing responsive layouts to ensure seamless performance across Android and iOS devices.",
+      "Continuously improving skills by participating in code reviews and applying feedback from experienced developers.",
     ],
   },
   {
     title: "Web Developer",
-    company_name: "Shopify",
+    // company_name: "Shopify",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "April 2024 - May 2024",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Collaborating with mentors and team members to understand best practices in web development.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Continuously improving coding skills by participating in code reviews and applying feedback from senior developers.",
     ],
   },
   {
     title: "Full stack Developer",
-    company_name: "Meta",
+    // company_name: "Meta",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "October - December 2024",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Collaborating with mentors and team members to understand frontend and backend development workflows.  ",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
@@ -172,35 +172,35 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Yash is a highly motivated developer with a great passion for learning. Their ability to adapt to new technologies and solve problems creatively is truly impressive.",
+    name: "Neha Patel",
+    designation: "SE",
+    company: "DevSolutions",
+    image: "https://media.licdn.com/dms/image/v2/C4E03AQFpuJTG-HO_Qg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1597937632488?e=2147483647&v=beta&t=aNE2-mIQJQ7pWXz0wS_nngKWJfBo1GOqN41DK4ATigU",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "Collaborating with You on our project was a fantastic experience. Their dedication, coding skills, and problem-solving approach made a huge impact on the final product.",
+    name: "Ankit Mehra",
+    designation: "Founder",
+    company: "DigitalNest",
+    image: "https://media.licdn.com/dms/image/v2/C4E03AQGWOt1JthJ54g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517681162055?e=2147483647&v=beta&t=xfzNbjK8uTMxeoTFbv7YmDpCeaePoZY2i-NK7Enpqh0",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "I needed a website for my business, and You delivered beyond my expectations. The design was clean, the performance was fast, and the communication was smooth throughout.",
+    name: "Amit Verma",
+    designation: "SD",
+    company: "CodeCrafters",
+    image: "https://media.licdn.com/dms/image/v2/D5603AQE65orW_6tMbg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1723869298328?e=2147483647&v=beta&t=AsYmc8XndN4ucZGxGqzrk-Vbf1iRitDLTc45JX8YtKQ",
   },
 ];
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Finance Tracker",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A personal finance tracking web application that helps users manage income, expenses, taxes, assets, debt, and net worth with real-time insights.",
     tags: [
       {
         name: "react",
@@ -216,49 +216,45 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/yashch3101/Personal-Finance-Visualizer",
   },
   {
-    name: "Job IT",
+    name: "News App",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A React Native News App that fetches real-time news from NewsData.io, featuring category filtering, search, bookmarking, and a user-friendly interface.",
     tags: [
       {
-        name: "react",
+        name: "react native",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "newsapi",
         color: "green-text-gradient",
-      },
-      {
-        name: "scss",
-        color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/yashch3101",
   },
   {
-    name: "Trip Guide",
+    name: "Educational Platform",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "An educational website built with HTML, CSS, and JavaScript, offering modules, quizzes, blogs, expert insights, and a contact system for interactive learning.",
     tags: [
       {
-        name: "nextjs",
+        name: "HTML",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "CSS",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "JavaScript",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/yashch3101/Arsh-Coaching-Classes",
   },
 ];
 
