@@ -47,26 +47,26 @@ npm (Node Package Manager)
 
 Clone the Repository
 
-git clone https://github.com/adrianhajdin/project_3D_developer_portfolio.git  
-cd project_3D_developer_portfolio  
+git clone https://github.com/adrianhajdin/project_3D_developer_portfolio.git
+cd project_3D_developer_portfolio
 
 Install Dependencies
 
-npm install  
+npm install
 
 
 Set Up Environment Variables
 Create a new .env file in the root of your project and add:
 
-REACT_APP_EMAILJS_USERID=your_emailjs_user_id  
-REACT_APP_EMAILJS_TEMPLATEID=your_emailjs_template_id  
-REACT_APP_EMAILJS_RECEIVERID=your_emailjs_receiver_id  
+REACT_APP_EMAILJS_USERID=your_emailjs_user_id
+REACT_APP_EMAILJS_TEMPLATEID=your_emailjs_template_id
+REACT_APP_EMAILJS_RECEIVERID=your_emailjs_receiver_id
 
 Replace the placeholder values with your actual EmailJS credentials from the EmailJS website.
 
 Run the Project
 
-npm run dev  
+npm run dev
 
 Open http://localhost:5173 in your browser to view the project.
 

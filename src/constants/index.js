@@ -46,7 +46,7 @@ const services = [
     icon: web,
   },
   {
-    title: "Flutter Developer",
+    title: "React Native Developer",
     icon: mobile,
   },
   {
@@ -129,13 +129,13 @@ const experiences = [
     ],
   },
   {
-    title: "Flutter Developer",
+    title: "React Native Developer",
     // company_name: "Tesla",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2024 - Feb 2024",
+    date: "Jan 2024 - March 2024",
     points: [
-      "Learning and building mobile applications using Flutter and Dart for cross-platform development.",
+      "Learning and building mobile applications using React Native for cross-platform development.",
       "Collaborating with mentors and team members to understand UI/UX design principles and app architecture.",
       "Implementing responsive layouts to ensure seamless performance across Android and iOS devices.",
       "Continuously improving skills by participating in code reviews and applying feedback from experienced developers.",
@@ -236,25 +236,25 @@ const projects = [
     source_code_link: "https://github.com/yashch3101",
   },
   {
-    name: "Educational Platform",
+    name: "Glowii AI",
     description:
-      "An educational website built with HTML, CSS, and JavaScript, offering modules, quizzes, blogs, expert insights, and a contact system for interactive learning.",
+      "AI-powered beauty service recommendation system that analyzes user inputs like skin concerns, event type, and treatment area to suggest personalized services and combos.",
     tags: [
       {
-        name: "HTML",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "CSS",
+        name: "Python",
         color: "green-text-gradient",
       },
       {
-        name: "JavaScript",
+        name: "Machine Learning",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/yashch3101/Arsh-Coaching-Classes",
+    source_code_link: "https://github.com/yashch3101/GlowiiAI-",
   },
 ];
 
